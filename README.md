@@ -1,9 +1,8 @@
 ### Hi, I'm Maria Giulia Martins
 
 
-
 **I'm an ...**
- <img align="right" alt="GIF" src="https://media.giphy.com/media/lK2X88olY7PLy6Mhtc/giphy.gif" />
+ <img align="right" alt="GIF" src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/girl2.gif" width="500" height="290"/>
  ##### About me:
 - 🎓: ....
 - :books:: ....
