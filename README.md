@@ -5,10 +5,10 @@
 **I'm an ...**
  <img align="right" alt="GIF" src="https://media.giphy.com/media/lK2X88olY7PLy6Mhtc/giphy.gif" />
  ##### About me:
-- 🎓: Finishing my undergraduation and preparing for industry transition.
-- :books:: Learning more about my area every day.
-- :speech_balloon:: Ask me about optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
-- :test_tube:: Always seeking related subjects that can be applied in the real world.
+- 🎓: ....
+- :books:: ....
+- :speech_balloon:: ....
+- :test_tube:: ....
 
 ##### Languages I use:
 <p align="left">
