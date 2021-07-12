@@ -21,4 +21,5 @@
 
 <a href="https://www.linkedin.com/in/maria-giulia-martins/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="20px" alt="LinkedIn"></a>&nbsp; &nbsp;
 <a href="mailto:mgmfacul@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="20px" alt="mail"></a>&nbsp; &nbsp;
-<a href="https://github.com/MariaGiuliaMartins" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+<a href="https://github.com/MariaGiuliaMartins" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/3483783208416872" target="_blank"><img src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/lattes.png" alt="Elangovan Sundar" height="20" width="35" /></a>
