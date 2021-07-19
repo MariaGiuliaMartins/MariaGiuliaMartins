@@ -5,6 +5,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/girl2.gif" width="500" height="290"/>
 ##### About me:
+
 - 🎓: Computer Engineering student at FEEC (Faculty of Electrical and Computing Engineer) Unicamp - University of Campinas, Brazil
 - :computer:: BI intern at Daitan An Encora Company
 - :speech_balloon:: Ask me about BI or DS stuff (:
