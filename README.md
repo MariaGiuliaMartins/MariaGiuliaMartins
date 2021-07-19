@@ -7,7 +7,7 @@
  
 ##### About me:
 
-- 🎓: Computer Engineering student at FEEC (Faculty of Electrical and Computing Engineer) Unicamp - University of Campinas, Brazil
+- 🎓: 10th semester of Computer Engineering
 - :computer:: BI intern at Daitan An Encora Company
 - :speech_balloon:: Ask me about BI or DS stuff (:
 
