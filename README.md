@@ -4,6 +4,7 @@
 **I'm a college student that loves to do BI and DS stuff in general...**
 
  <img align="right" alt="GIF" src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/girl2.gif" width="500" height="290"/>
+ 
 ##### About me:
 
 - 🎓: Computer Engineering student at FEEC (Faculty of Electrical and Computing Engineer) Unicamp - University of Campinas, Brazil
