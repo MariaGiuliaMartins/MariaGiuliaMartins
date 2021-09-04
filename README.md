@@ -25,3 +25,7 @@
 <a href="https://github.com/MariaGiuliaMartins" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="http://lattes.cnpq.br/3483783208416872" target="_blank"><img src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/lattes.png" alt="Elangovan Sundar" height="20" width="35" /></a>&nbsp; &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-mgmfacul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mgmfacul@gmail.com)](mailto:mgmfacul@gmail.com)
+
+ <div>
+![Snake animation](https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/output/github-contribution-grid-snake.svg)
+ </div>
