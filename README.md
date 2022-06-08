@@ -7,8 +7,8 @@
  
 ##### About me:
 
-- 🎓: 10th semester of Computer Engineering
-- :computer:: BI intern at Daitan An Encora Company
+- 🎓: 11th semester of Computer Engineering
+- :computer:: BI Assistant Analyst at Encora Company, Brazil Division
 - :speech_balloon:: Ask me about BI or DS stuff (:
 
 ##### Languages I use:
