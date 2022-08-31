@@ -7,7 +7,7 @@
  
 ##### About me:
 
-- 🎓: 11th semester of Computer Engineering
+- 🎓: 12th semester of Computer Engineering
 - :computer:: BI Assistant Analyst at Encora Company, Brazil Division
 - :speech_balloon:: Ask me about BI or DS stuff (:
 
