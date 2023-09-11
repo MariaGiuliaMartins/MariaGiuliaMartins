@@ -12,8 +12,12 @@
 - :speech_balloon:: Ask me about BI or Analytics stuff (:
 
 ##### Languages I use:
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35"/> &nbsp;
+
+##### Languages I know:
+ 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" /> &nbsp;
 <img src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/C.png" alt="java" width="30" height="30" /> 
