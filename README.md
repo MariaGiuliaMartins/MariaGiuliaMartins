@@ -11,13 +11,13 @@
 - :computer:: BI Analyst at Encora Company, Brazil Division
 - :speech_balloon:: Ask me about BI or Analytics stuff (:
 
-##### Languages I use:
+##### Analytics Tools that I use (or have used at some time in my life):
+
+##### Languages I use (or have used at some time in my life):
 
 <p align="left">
+<img src="https://ezerus.com.au/wp-content/uploads/2019/05/postgresql-logo.png" alt="postgresql" width="35" height="35"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35"/> &nbsp;
-
-##### Languages I know:
- 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" /> &nbsp;
 <img src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/C.png" alt="java" width="30" height="30" /> 
