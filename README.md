@@ -12,6 +12,8 @@
 - :speech_balloon:: Ask me about BI or Analytics stuff (:
 
 ##### Analytics Tools that I use (or have used at some time in my life):
+<a href="https://amplitude.com/"><img src="https://uploads-us-west-2.insided.com/amplitude-en/attachment/4e0ab4e4-4914-4fe5-9da0-8162667f6a75.png" width="20px" alt="amplitude"></a>&nbsp; &nbsp;
+<a href="https://aws.amazon.com/quicksight/"><img src="https://allcode.com/wp-content/uploads/2022/12/amazon-quicksight@2x@2x.png" width="20px" alt="quicksight"></a>&nbsp; &nbsp;
 
 ##### Languages I use (or have used at some time in my life):
 
