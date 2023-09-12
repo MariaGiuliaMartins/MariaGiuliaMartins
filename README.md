@@ -1,7 +1,7 @@
 ### Hi, I'm Maria Giulia Martins
 
 
-**I'm a college student who loves to do BI and DS stuff in general...**
+**I'm a Computer Engineer who loves to do BI and Analytics stuff in general...**
 
  <img align="right" alt="GIF" src="https://github.com/MariaGiuliaMartins/MariaGiuliaMartins/blob/main/girl2.gif" width="500" height="290"/>
  
