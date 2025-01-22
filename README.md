@@ -8,12 +8,13 @@
 ##### About me:
 
 - 🎓: Computer Engineering at [Unicamp - University of Campinas](https://www.unicamp.br/unicamp/english)
-- :computer:: BI Analyst at Encora Company, Brazil Division
-- :speech_balloon:: Ask me about BI or Analytics stuff (:
+- :computer:: Jr. BI/Data Analytics Engineer at Encora Company, Brazil Division
+- :speech_balloon:: Ask me about BI/Analytics/Engineer stuff (:
+- My Medium posts: [https://medium.com/@maria_giulia](https://medium.com/@maria_giulia)
 
 ##### Analytics Tools that I use (or have used at some time in my life):
-<a href="https://amplitude.com/"><img src="https://uploads-us-west-2.insided.com/amplitude-en/attachment/4e0ab4e4-4914-4fe5-9da0-8162667f6a75.png" width="80px" alt="amplitude"></a>&nbsp; &nbsp;
 <a href="https://aws.amazon.com/quicksight/"><img src="https://allcode.com/wp-content/uploads/2022/12/amazon-quicksight@2x@2x.png" width="80px" alt="quicksight"></a>&nbsp; &nbsp;
+<a href="https://amplitude.com/"><img src="https://uploads-us-west-2.insided.com/amplitude-en/attachment/4e0ab4e4-4914-4fe5-9da0-8162667f6a75.png" width="80px" alt="amplitude"></a>&nbsp; &nbsp;
 
 ##### Languages I use (or have used at some time in my life):
 
