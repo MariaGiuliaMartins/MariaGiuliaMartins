@@ -8,7 +8,7 @@
 ##### About me:
 
 - 🎓: Computer Engineering at [Unicamp - University of Campinas](https://www.unicamp.br/unicamp/english)
-- :computer:: Jr. BI/Data Analytics Engineer at Encora Company, Brazil Division
+- :computer:: Jr. BI/Data Analyst Engineer at Encora Company, Brazil Division
 - :speech_balloon:: Ask me about BI/Analytics/Engineer stuff (:
 - My Medium posts: [https://medium.com/@maria_giulia](https://medium.com/@maria_giulia)
 
