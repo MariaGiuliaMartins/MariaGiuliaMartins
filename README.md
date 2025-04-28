@@ -1,4 +1,4 @@
-### Hi, I'm Maria Giulia Martins
+### Hi, I'm Maria Giulia Martins Souza
 
 
 **I'm a Computer Engineer who loves to do BI and Analytics stuff in general...**
@@ -8,13 +8,17 @@
 ##### About me:
 
 - 🎓: Computer Engineering at [Unicamp - University of Campinas](https://www.unicamp.br/unicamp/english)
-- :computer:: Jr. BI/Data Analyst Engineer at Encora Company, Brazil Division
+- :computer:: Jr. Analytics Engineer at Encora Company, Brazil Division
 - :speech_balloon:: Ask me about BI/Analytics/Engineer stuff (:
 - My Medium posts: [https://medium.com/@maria_giulia](https://medium.com/@maria_giulia)
 
 ##### Analytics Tools that I use (or have used at some time in my life):
 <a href="https://aws.amazon.com/quicksight/"><img src="https://allcode.com/wp-content/uploads/2022/12/amazon-quicksight@2x@2x.png" width="80px" alt="quicksight"></a>&nbsp; &nbsp;
 <a href="https://amplitude.com/"><img src="https://uploads-us-west-2.insided.com/amplitude-en/attachment/4e0ab4e4-4914-4fe5-9da0-8162667f6a75.png" width="80px" alt="amplitude"></a>&nbsp; &nbsp;
+
+##### Technology Tools that I use (or have used at some time in my life):
+<a href="https://airflow.apache.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtc0vjEWXsTOG5avPWQOg7sm7iBxDxgk9iA&s" width="80px" alt="airflow"></a>&nbsp; &nbsp;
+<a href="https://aws.amazon.com/pt/redshift/"><img src="https://logowik.com/content/uploads/images/amazon-redshift2247.jpg" width="80px" alt="redshift"></a>&nbsp; &nbsp;
 
 ##### Languages I use (or have used at some time in my life):
 
